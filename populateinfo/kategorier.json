@@ -1,0 +1,192 @@
+{
+    "undefined": {
+        "undefined": {
+            "undefined": [
+                null
+            ]
+        }
+    },
+    "income": {
+        "undefined": {
+            "undefined": []
+        }
+    },
+    "expence": {
+        "Bostad": {
+            "Bygg/Trädgård": [
+                "Uteplats",
+                "Övrigt"
+            ],
+            "Drift": [
+                "Vitvaror",
+                "Övrigt"
+            ],
+            "Fritidshus": [],
+            "Hyra avgift": [
+                "Hyra",
+                "Övrigt"
+            ],
+            "Räta & amotering": [
+                "Ränta ",
+                "Amotering",
+                "Övrigt"
+            ]
+        },
+        "Hushåll": {
+            "Mobil & It": [
+                "Mobil",
+                "Bredband",
+                "Tjänster",
+                "Övrigt"
+            ],
+            "Försäkrning": [
+                "Hem",
+                "Bil",
+                "Övrigt"
+            ],
+            "Husdjur": [],
+            "Media,mobil, it": [
+                "Dator",
+                "mobil",
+                "Programvaror",
+                "Övrigt"
+            ],
+            "Tjänster": [
+                "Städ",
+                "Övrigt"
+            ],
+            "Sjukvård / hälsa": [
+                "Apotek",
+                "Psykiatri",
+                "Neuropsyk",
+                "Övrigt"
+            ]
+        },
+        "Bil": {
+            "Skatter & Avgifter": [
+                "Bilskatt",
+                "trängselskatt",
+                "Vägskatt",
+                "Övrigt"
+            ],
+            "Parkering": [
+                "Parkeringsavgift",
+                "P-böter",
+                "Övrigt"
+            ],
+            "Drivmedel ": [
+                "Bensin",
+                "Övrigt"
+            ],
+            "Serive & underhåll": [
+                "Service",
+                "Däck",
+                "reparation",
+                "Tvätt",
+                "Övrigt"
+            ]
+        },
+        "Mat & Dryck": {
+            "Alkohol & toback": [
+                "Snus",
+                "Systembolaget",
+                "Övrigt"
+            ],
+            "Livsmedel": [
+                "Livsmedel",
+                "Övrigt"
+            ],
+            "Lunch & take away": [
+                "Lunch",
+                "Take Away",
+                "Snacks",
+                "Övrigt"
+            ],
+            "Restaurang": []
+        },
+        "Transport": {
+            "Kollektivtrafik": [
+                "Enkelbilketter",
+                "Periodskort",
+                "Böter",
+                "Övrigt"
+            ],
+            "Flyg": [
+                "Inrikes",
+                "Utrikes",
+                "Övrigt"
+            ],
+            "Taxi": []
+        },
+        "NöjeShopping": {
+            "Kultur & upplevelser": [
+                "Koncert",
+                "Teater",
+                "Musikal",
+                "Festival",
+                "Annan upplevelse",
+                "Övrigt"
+            ],
+            "Hem & Mode": [
+                "Inredning",
+                "Möbler",
+                "Kläder",
+                "Skor",
+                "Accesoarer",
+                "Övrigt"
+            ],
+            "Café och Bar": [
+                "Café",
+                "Kaffe",
+                "Bar & Pub",
+                "Övrigt"
+            ],
+            "Hobby": [
+                "Måla",
+                "Rita",
+                "Sy",
+                "Bygga",
+                "Skulptera",
+                "Övrigt"
+            ],
+            "Hemelektronik": [
+                "Mobil",
+                "Dator",
+                "Tv",
+                "Övrigt"
+            ],
+            "Sport & fritid": [
+                "Kläder",
+                "Skor",
+                "Utrustning"
+            ],
+            "Skönhet & hälsa": [
+                "Klippning",
+                "Övrigt"
+            ]
+        },
+        "Övrigt": {
+            "Fack & Akassa": [],
+            "Kontantuttag": [],
+            "Swish": [],
+            "Utbildningar & kurser": [],
+            "Välgörenhet": [],
+            "Övrigt": [],
+            "Presenter & Gåvor": [
+                "Julklappar",
+                "Födelsedag"
+            ]
+        },
+        "Semester": {
+            "Resa": [
+                "Flyg",
+                "Taxi"
+            ],
+            "Mat": [],
+            "Boende": [
+                "Hotel",
+                "Vandrarhem"
+            ]
+        }
+    }
+}

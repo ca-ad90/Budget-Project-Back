@@ -1,0 +1,4678 @@
+[
+    {
+        "namn": "BufferKonto",
+        "clearing": "6228",
+        "nummer": "704331632",
+        "saldo": 17352,
+        "transactions": [
+            {
+                "text": "medicin",
+                "belopp": -400,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-10-03"
+            },
+            {
+                "text": "medicin",
+                "belopp": -500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-10-03"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-19"
+            },
+            {
+                "text": "typ spara",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-19"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -100,
+                "saldo": "0",
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-09"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -400,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-09"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-01"
+            },
+            {
+                "text": "typ spara",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-19"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -200,
+                "saldo": "0",
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-13"
+            },
+            {
+                "text": "verktygs sats",
+                "belopp": -800,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-09"
+            },
+            {
+                "text": "sommarbonus",
+                "belopp": -1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-02"
+            },
+            {
+                "text": "båtkärra",
+                "belopp": -2000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-31"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -1185.9,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-25"
+            },
+            {
+                "text": "typ spara",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-19"
+            },
+            {
+                "text": "typ spara",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-20"
+            },
+            {
+                "text": "K*Ticketmast",
+                "belopp": -1365,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-03"
+            },
+            {
+                "text": "typ spara",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-19"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -250,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-17"
+            },
+            {
+                "text": "ica",
+                "belopp": -450,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-12"
+            },
+            {
+                "text": "bensin",
+                "belopp": -750,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-08"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -320,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-06"
+            },
+            {
+                "text": "typ spara",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-19"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -600,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-17"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -300,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-17"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-16"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -600,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-15"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -200,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-14"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-13"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-08"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-08"
+            },
+            {
+                "text": "akrylfärger",
+                "belopp": -1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-03"
+            },
+            {
+                "text": "typ spara",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-03-21"
+            },
+            {
+                "text": "balans skidres",
+                "belopp": 6000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-03-16"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -1400,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-03-10"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-03-03"
+            },
+            {
+                "text": "typ spara",
+                "belopp": 1500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-02-21"
+            },
+            {
+                "text": "K*Adlibris A",
+                "belopp": -1405.1,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-02-08"
+            },
+            {
+                "text": "K*Adlibris A",
+                "belopp": -177,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-02-08"
+            },
+            {
+                "text": "typ spara",
+                "belopp": 1500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-01-19"
+            },
+            {
+                "text": "K*XXL Sport",
+                "belopp": -799,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-12-23"
+            },
+            {
+                "text": "K*INF Compan",
+                "belopp": -239,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-12-23"
+            },
+            {
+                "text": "typ spara",
+                "belopp": 1500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-12-20"
+            },
+            {
+                "text": "K*Svenskt Ko",
+                "belopp": -159,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-12-14"
+            },
+            {
+                "text": "typ spara",
+                "belopp": 1500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-11-19"
+            },
+            {
+                "text": "snus",
+                "belopp": -200,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-11-14"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -200,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-11-09"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -806,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-11-09"
+            },
+            {
+                "text": "K*Let's deal",
+                "belopp": -495,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-26"
+            },
+            {
+                "text": "K*IKEA Svens",
+                "belopp": -349,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-26"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": 900,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-19"
+            },
+            {
+                "text": "typ spara",
+                "belopp": 1500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-19"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -800,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-16"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -50,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-16"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -146,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-16"
+            },
+            {
+                "text": "3624116208 Sve",
+                "belopp": -234,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-16"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -250,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-16"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -2,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-16"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": 900,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-09"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-06"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-09-23"
+            },
+            {
+                "text": "typ spara",
+                "belopp": 1500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-09-20"
+            },
+            {
+                "text": "typ spara",
+                "belopp": 1500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-08-19"
+            },
+            {
+                "text": "K*ASOS.com L",
+                "belopp": -869,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-08-17"
+            },
+            {
+                "text": "K*ASOS.com L",
+                "belopp": -379,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-08-17"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -1100,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-08-16"
+            },
+            {
+                "text": "K*ASOS.com L",
+                "belopp": -379,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-08-03"
+            },
+            {
+                "text": "K*ASOS.com L",
+                "belopp": -1027,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-07-28"
+            },
+            {
+                "text": "K*ASOS.com L",
+                "belopp": -568,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-07-28"
+            },
+            {
+                "text": "K*JF Johanss",
+                "belopp": -199,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-07-22"
+            },
+            {
+                "text": "K*ASOS.com L",
+                "belopp": -379,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-07-21"
+            },
+            {
+                "text": "typ spara",
+                "belopp": 1500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-07-19"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -600,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-07-17"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-07-16"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-07-14"
+            },
+            {
+                "text": "K*ASOS.com L",
+                "belopp": -379,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-07-13"
+            },
+            {
+                "text": "Läk med förs",
+                "belopp": 1914,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-06-30"
+            },
+            {
+                "text": "typ spara",
+                "belopp": 1500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-06-21"
+            },
+            {
+                "text": "Resa Norrland",
+                "belopp": -1200,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-06-13"
+            },
+            {
+                "text": "Läkem förs",
+                "belopp": 1474,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-06-02"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-05-20"
+            },
+            {
+                "text": "typ spara",
+                "belopp": 1500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-05-19"
+            },
+            {
+                "text": "typ spara",
+                "belopp": 1500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-04-19"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -1500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-04-17"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -2000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-04-17"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-04-16"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -600,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-04-14"
+            },
+            {
+                "text": "Skjortor",
+                "belopp": -1071,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-04-06"
+            },
+            {
+                "text": "typ spara",
+                "belopp": 1500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-03-19"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-03-16"
+            },
+            {
+                "text": "Parkeringstjän",
+                "belopp": -1520,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-03-16"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": 2000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-02-21"
+            },
+            {
+                "text": "typ spara",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-02-19"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -5000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-02-14"
+            },
+            {
+                "text": "Liftkort",
+                "belopp": -2500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-02-13"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -800,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-02-13"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -800,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-02-12"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-02-12"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-02-12"
+            },
+            {
+                "text": "K* Klarna",
+                "belopp": -3938,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-02-09"
+            },
+            {
+                "text": "typ spara",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-01-19"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-01-09"
+            }
+        ]
+    },
+    {
+        "namn": "Sparkonto",
+        "clearing": "6228",
+        "nummer": "608377228",
+        "saldo": 56361.77,
+        "transactions": [
+            {
+                "text": "presenter HA",
+                "belopp": -1948,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-26"
+            },
+            {
+                "text": "present HA/MO",
+                "belopp": -2640,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-26"
+            },
+            {
+                "text": "sepLÖN",
+                "belopp": -5757,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-26"
+            },
+            {
+                "text": "Alecta",
+                "belopp": 757,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-23"
+            },
+            {
+                "text": "deep Sleep",
+                "belopp": 5000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-23"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": 400,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-19"
+            },
+            {
+                "text": "klippning",
+                "belopp": -400,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-16"
+            },
+            {
+                "text": "Auglön",
+                "belopp": -5757,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-27"
+            },
+            {
+                "text": "Alecta",
+                "belopp": 757,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-25"
+            },
+            {
+                "text": "deep Sleep",
+                "belopp": 5000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-25"
+            },
+            {
+                "text": "Alecta",
+                "belopp": 757,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-25"
+            },
+            {
+                "text": "julilön",
+                "belopp": -5757,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-25"
+            },
+            {
+                "text": "deep Sleep",
+                "belopp": 5000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-25"
+            },
+            {
+                "text": "Alecta",
+                "belopp": 757,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-23"
+            },
+            {
+                "text": "junilön",
+                "belopp": -5757,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-23"
+            },
+            {
+                "text": "deep Sleep",
+                "belopp": 5000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-23"
+            },
+            {
+                "text": "sven6 plus bil",
+                "belopp": -6500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-21"
+            },
+            {
+                "text": "Alecta",
+                "belopp": 757,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-25"
+            },
+            {
+                "text": "majlön",
+                "belopp": -5757,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-25"
+            },
+            {
+                "text": "deep Sleep",
+                "belopp": 5000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-25"
+            },
+            {
+                "text": "Alecta",
+                "belopp": 757,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-25"
+            },
+            {
+                "text": "aprillön",
+                "belopp": -5757,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-25"
+            },
+            {
+                "text": "deep Sleep",
+                "belopp": 5000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-25"
+            },
+            {
+                "text": "Alecta",
+                "belopp": 757,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-03-25"
+            },
+            {
+                "text": "marslön",
+                "belopp": -5757,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-03-25"
+            },
+            {
+                "text": "deep Sleep",
+                "belopp": 5000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-03-25"
+            },
+            {
+                "text": "Alecta",
+                "belopp": 757,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-02-25"
+            },
+            {
+                "text": "deep Sleep",
+                "belopp": 5000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-02-25"
+            },
+            {
+                "text": "Alecta",
+                "belopp": 757,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-01-25"
+            },
+            {
+                "text": "deep Sleep",
+                "belopp": 5000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-01-25"
+            },
+            {
+                "text": "ITHS",
+                "belopp": -1250,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-01-04"
+            },
+            {
+                "text": "deep Sleep",
+                "belopp": 5000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-12-30"
+            },
+            {
+                "text": "Alecta",
+                "belopp": 747,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-12-23"
+            },
+            {
+                "text": "utd",
+                "belopp": 5000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-12-23"
+            },
+            {
+                "text": "Alecta",
+                "belopp": 747,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-11-25"
+            },
+            {
+                "text": "utd",
+                "belopp": 5000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-11-25"
+            },
+            {
+                "text": "Alecta",
+                "belopp": 747,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-25"
+            },
+            {
+                "text": "utd",
+                "belopp": 5000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-25"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -1186,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-14"
+            },
+            {
+                "text": "Alecta",
+                "belopp": 747,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-09-24"
+            },
+            {
+                "text": "utd",
+                "belopp": 5000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-09-24"
+            },
+            {
+                "text": "Alecta",
+                "belopp": 5970,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-09-13"
+            },
+            {
+                "text": "Alecta",
+                "belopp": 1375,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-09-07"
+            },
+            {
+                "text": "utd",
+                "belopp": 5000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-08-25"
+            },
+            {
+                "text": "Hyrbil deposit",
+                "belopp": -8000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-07-30"
+            },
+            {
+                "text": "utd",
+                "belopp": 5000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-07-23"
+            },
+            {
+                "text": "utd",
+                "belopp": 5000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-06-24"
+            },
+            {
+                "text": "Resa Norrland",
+                "belopp": -1500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-06-13"
+            },
+            {
+                "text": "utd",
+                "belopp": 5000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-05-25"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -1500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-05-20"
+            },
+            {
+                "text": "utd",
+                "belopp": 5000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-04-23"
+            },
+            {
+                "text": "utd",
+                "belopp": 5000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-03-25"
+            },
+            {
+                "text": "SPARA",
+                "belopp": 1500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-02-26"
+            },
+            {
+                "text": "utd",
+                "belopp": 5000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-02-25"
+            },
+            {
+                "text": "SPARA",
+                "belopp": 1500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-01-26"
+            },
+            {
+                "text": "utd",
+                "belopp": 5000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-01-25"
+            }
+        ]
+    },
+    {
+        "namn": "Kortkonto",
+        "clearing": "6228",
+        "nummer": "202273288",
+        "saldo": 2531.38,
+        "transactions": [
+            {
+                "text": "Max Burgers 20",
+                "belopp": -76,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-10-10"
+            },
+            {
+                "text": "PARKERING G@TE",
+                "belopp": -20,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-10-10"
+            },
+            {
+                "text": "NETS*APCOA FLO",
+                "belopp": -81,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-10-06"
+            },
+            {
+                "text": "APOTEK HJARTAT",
+                "belopp": -873.32,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-10-04"
+            },
+            {
+                "text": "MAXI ICA STORM",
+                "belopp": -158.6,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-10-04"
+            },
+            {
+                "text": "medicin",
+                "belopp": 400,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-10-03"
+            },
+            {
+                "text": "medicin",
+                "belopp": 500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-10-03"
+            },
+            {
+                "text": "LAGERHAUS GOTE",
+                "belopp": -84,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-10-03"
+            },
+            {
+                "text": "LAGERHAUS GOTE",
+                "belopp": -300,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-10-03"
+            },
+            {
+                "text": "MCD 006 - GBG",
+                "belopp": -118,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-10-03"
+            },
+            {
+                "text": "LAGERHAUS GOTE",
+                "belopp": -100,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-10-03"
+            },
+            {
+                "text": "AKADEMIBOKHAND",
+                "belopp": -286,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-10-03"
+            },
+            {
+                "text": "WAYNES COFFE",
+                "belopp": -37,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-10-03"
+            },
+            {
+                "text": "MAXI ICA STORM",
+                "belopp": -185.6,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-10-03"
+            },
+            {
+                "text": "MAXI ICA STORM",
+                "belopp": -286.5,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-10-03"
+            },
+            {
+                "text": "KAJSA PALMQVIS",
+                "belopp": -30,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-10-01"
+            },
+            {
+                "text": "KAJSA PALMQVIS",
+                "belopp": -12,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-10-01"
+            },
+            {
+                "text": "KAJSA PALMQVIS",
+                "belopp": -30,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-10-01"
+            },
+            {
+                "text": "KAJSA PALMQVIS",
+                "belopp": -16,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-10-01"
+            },
+            {
+                "text": "PARKERING G@TE",
+                "belopp": -17,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-29"
+            },
+            {
+                "text": "INGO GOTEBORG,",
+                "belopp": -686.12,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-29"
+            },
+            {
+                "text": "CHRISTOFFER JA",
+                "belopp": -25,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-28"
+            },
+            {
+                "text": "MAXI ICA STORM",
+                "belopp": -217.3,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-27"
+            },
+            {
+                "text": "BASSRA GATUKOK",
+                "belopp": -130,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-26"
+            },
+            {
+                "text": "KUNGSTORGETS B",
+                "belopp": -78,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-26"
+            },
+            {
+                "text": "LEMONADE",
+                "belopp": -430,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-26"
+            },
+            {
+                "text": "LEMONADE",
+                "belopp": -40,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-26"
+            },
+            {
+                "text": "STAR PLAN 1.1",
+                "belopp": -89,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-26"
+            },
+            {
+                "text": "STAR",
+                "belopp": -85,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-26"
+            },
+            {
+                "text": "FRANKES",
+                "belopp": -79,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-26"
+            },
+            {
+                "text": "NEU*4Fun i Fal",
+                "belopp": -60,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-26"
+            },
+            {
+                "text": "räkningar",
+                "belopp": -7500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-26"
+            },
+            {
+                "text": "Linnea Olsson",
+                "belopp": -1948,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-26"
+            },
+            {
+                "text": "Karin Adrian",
+                "belopp": -2640,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-26"
+            },
+            {
+                "text": "presenter HA",
+                "belopp": 1948,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-26"
+            },
+            {
+                "text": "present HA/MO",
+                "belopp": 2640,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-26"
+            },
+            {
+                "text": "septlön",
+                "belopp": 5757,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-26"
+            },
+            {
+                "text": "Läkmf. Aktie",
+                "belopp": 4300,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-26"
+            },
+            {
+                "text": "VIKTOR MATTSSO",
+                "belopp": 50,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-25"
+            },
+            {
+                "text": "CHRISTOFFER JA",
+                "belopp": -250,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-25"
+            },
+            {
+                "text": "MARCUS OSKARSS",
+                "belopp": 50,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-25"
+            },
+            {
+                "text": "ANDREA HÖGBERG",
+                "belopp": 50,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-24"
+            },
+            {
+                "text": "ANNIE SAHLÉN",
+                "belopp": 50,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-24"
+            },
+            {
+                "text": "MATTIAS ERIK B",
+                "belopp": 50,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-24"
+            },
+            {
+                "text": "TOVE KARLSTRÖM",
+                "belopp": 50,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-24"
+            },
+            {
+                "text": "Ellinor Sahlbe",
+                "belopp": 50,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-24"
+            },
+            {
+                "text": "JOHAN LEIJON",
+                "belopp": 50,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-24"
+            },
+            {
+                "text": "NORÉN STOMBERG",
+                "belopp": 50,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-24"
+            },
+            {
+                "text": "ALMQVIST, MALI",
+                "belopp": 50,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-24"
+            },
+            {
+                "text": "ABDUL HUSSEN",
+                "belopp": 50,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-24"
+            },
+            {
+                "text": "AVAN ABBAS",
+                "belopp": -90,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-23"
+            },
+            {
+                "text": "Garderob",
+                "belopp": -25,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-23"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-23"
+            },
+            {
+                "text": "Daniels Qvick",
+                "belopp": -200,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-23"
+            },
+            {
+                "text": "EasyPark",
+                "belopp": -21.05,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-22"
+            },
+            {
+                "text": "ROLLIN BISTROS",
+                "belopp": -135,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-22"
+            },
+            {
+                "text": "ROLLIN BISTROS",
+                "belopp": -59,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-22"
+            },
+            {
+                "text": "PARKERING G@TE",
+                "belopp": -15,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-21"
+            },
+            {
+                "text": "MAXI ICA STORM",
+                "belopp": -274.75,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-21"
+            },
+            {
+                "text": "ATM Kontanten1",
+                "belopp": -200,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-19"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-19"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-19"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -400,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-19"
+            },
+            {
+                "text": "typ spara",
+                "belopp": -1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-19"
+            },
+            {
+                "text": "FK/PMYND",
+                "belopp": 5262,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-19"
+            },
+            {
+                "text": "PARKERING G@TE",
+                "belopp": -40,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-16"
+            },
+            {
+                "text": "klippning",
+                "belopp": 400,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-16"
+            },
+            {
+                "text": "PARKERING G@TE",
+                "belopp": -13,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-15"
+            },
+            {
+                "text": "GOOGLE *Google",
+                "belopp": -65,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-15"
+            },
+            {
+                "text": "MAXI ICA STORM",
+                "belopp": -286.5,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-14"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-14"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": 500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-13"
+            },
+            {
+                "text": "PARKERING G@TE",
+                "belopp": -124,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-12"
+            },
+            {
+                "text": "LE PUB",
+                "belopp": -82,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-12"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": 100,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-09"
+            },
+            {
+                "text": "TOMAS JOHANSSO",
+                "belopp": -300,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-09"
+            },
+            {
+                "text": "MAXI ICA STORM",
+                "belopp": -76.35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-09"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": 400,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-09"
+            },
+            {
+                "text": "KV Konstskola",
+                "belopp": -5,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-07"
+            },
+            {
+                "text": "MAXI ICA STORM",
+                "belopp": -109.3,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-05"
+            },
+            {
+                "text": "APOTEK HJARTAT",
+                "belopp": -85.82,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-05"
+            },
+            {
+                "text": "LISEBERG ENTR",
+                "belopp": -95,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-05"
+            },
+            {
+                "text": "övf kortavgift",
+                "belopp": 300,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-02"
+            },
+            {
+                "text": "KORTAVGIFT",
+                "belopp": -300,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-02"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-01"
+            },
+            {
+                "text": "MAXI ICA STORM",
+                "belopp": -977.41,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-01"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-01"
+            },
+            {
+                "text": "ROMAN, OLIVER",
+                "belopp": -50,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-01"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": 500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-01"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -341,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-31"
+            },
+            {
+                "text": "PARKERING G@TE",
+                "belopp": -10,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-30"
+            },
+            {
+                "text": "MobilPark Aimo",
+                "belopp": -74,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-29"
+            },
+            {
+                "text": "FILMSTADEN BER",
+                "belopp": -25,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-29"
+            },
+            {
+                "text": "Almedal Restau",
+                "belopp": -99,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-29"
+            },
+            {
+                "text": "räkningar",
+                "belopp": -9311.91,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-27"
+            },
+            {
+                "text": "Göran Adrian",
+                "belopp": 450,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-27"
+            },
+            {
+                "text": "Auglön",
+                "belopp": 5757,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-27"
+            },
+            {
+                "text": "Läkmf. Aktie",
+                "belopp": 4300,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-25"
+            },
+            {
+                "text": "QSTAR STR@MSTA",
+                "belopp": -659.96,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-23"
+            },
+            {
+                "text": "Helena Adrian",
+                "belopp": -858,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-23"
+            },
+            {
+                "text": "Max Burgers 20",
+                "belopp": -35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-22"
+            },
+            {
+                "text": "Max Burgers 20",
+                "belopp": -114,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-22"
+            },
+            {
+                "text": "MAXI ICA STORM",
+                "belopp": -75.85,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-22"
+            },
+            {
+                "text": "COOP SK$NEGATA",
+                "belopp": -40.95,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-22"
+            },
+            {
+                "text": "KIOSKER SCANDI",
+                "belopp": -225,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-22"
+            },
+            {
+                "text": "iZ *CS",
+                "belopp": -360,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-22"
+            },
+            {
+                "text": "GRANLUND, REBE",
+                "belopp": -450,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-21"
+            },
+            {
+                "text": "Linnea Olsson",
+                "belopp": -815,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-20"
+            },
+            {
+                "text": "typ spara",
+                "belopp": -1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-19"
+            },
+            {
+                "text": "LE PUB",
+                "belopp": -278,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-18"
+            },
+            {
+                "text": "MAGASINET",
+                "belopp": -38,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-18"
+            },
+            {
+                "text": "återbet. fika",
+                "belopp": -500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-18"
+            },
+            {
+                "text": "FK/PMYND",
+                "belopp": 5262,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-18"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-17"
+            },
+            {
+                "text": "lån för fika",
+                "belopp": 500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-17"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-17"
+            },
+            {
+                "text": "INGO GOTEBORG,",
+                "belopp": -351.83,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-15"
+            },
+            {
+                "text": "MAXI ICA STORM",
+                "belopp": -220.65,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-15"
+            },
+            {
+                "text": "MAXI ICA STORM",
+                "belopp": -103.4,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-15"
+            },
+            {
+                "text": "ICA KVANTUM MU",
+                "belopp": -97.3,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-15"
+            },
+            {
+                "text": "MAXI ICA STORM",
+                "belopp": -329.64,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-15"
+            },
+            {
+                "text": "KARESTEDT,JOSE",
+                "belopp": 500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-14"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": 200,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-13"
+            },
+            {
+                "text": "APOTEK HJARTAT",
+                "belopp": -127.44,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-12"
+            },
+            {
+                "text": "HORNBACH GOTEB",
+                "belopp": -258.26,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-10"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-10"
+            },
+            {
+                "text": "verktyg",
+                "belopp": 800,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-09"
+            },
+            {
+                "text": "OUTLETBODEN",
+                "belopp": -428,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-08"
+            },
+            {
+                "text": "WILLYS STR@MST",
+                "belopp": -600,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-08"
+            },
+            {
+                "text": "KARESTEDT,JOSE",
+                "belopp": 80,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-06"
+            },
+            {
+                "text": "ICA KVANTUM ST",
+                "belopp": -231.8,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-05"
+            },
+            {
+                "text": "HEMCOMPANIET D",
+                "belopp": -123,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-03"
+            },
+            {
+                "text": "OUTLETBODEN",
+                "belopp": -426,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-03"
+            },
+            {
+                "text": "Jysk Stromstad",
+                "belopp": -150,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-03"
+            },
+            {
+                "text": "ICA KVANTUM ST",
+                "belopp": -90.4,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-03"
+            },
+            {
+                "text": "APOTEK HJARTAT",
+                "belopp": -214.56,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-03"
+            },
+            {
+                "text": "CIRCLE K GOTEB",
+                "belopp": -755.3,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-02"
+            },
+            {
+                "text": "sommarbonus",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-02"
+            },
+            {
+                "text": "K-RAUTA",
+                "belopp": -26.59,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-01"
+            },
+            {
+                "text": "BILTEMA SWEDEN",
+                "belopp": -180.3,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-01"
+            },
+            {
+                "text": "BILTEMA SWEDEN",
+                "belopp": 299.6,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-01"
+            },
+            {
+                "text": "BILTEMA SWEDEN",
+                "belopp": -3,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-01"
+            },
+            {
+                "text": "BILTEMA SWEDEN",
+                "belopp": -971.5,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-01"
+            },
+            {
+                "text": "BOLT.EU/O/2207",
+                "belopp": -122,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-01"
+            },
+            {
+                "text": "ULLEVI KONFERE",
+                "belopp": -75,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-01"
+            },
+            {
+                "text": "BOLT.EU/O/2207",
+                "belopp": -112,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-01"
+            },
+            {
+                "text": "MAXI ICA STORM",
+                "belopp": -332.2,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-01"
+            },
+            {
+                "text": "MAXI ICA STORM",
+                "belopp": -250,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-01"
+            },
+            {
+                "text": "Systembolaget",
+                "belopp": -660,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-01"
+            },
+            {
+                "text": "KARESTEDT,JOSE",
+                "belopp": 875,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-01"
+            },
+            {
+                "text": "båtkärra",
+                "belopp": 2000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-31"
+            },
+            {
+                "text": "AHLSELL AB",
+                "belopp": -1007,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-29"
+            },
+            {
+                "text": "iZ *Isladan Gl",
+                "belopp": -60,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-29"
+            },
+            {
+                "text": "KIM SÖRMAN",
+                "belopp": 900,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-29"
+            },
+            {
+                "text": "KVIBERGSGOTT",
+                "belopp": -128,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-28"
+            },
+            {
+                "text": "ESPRESSO HOUSE",
+                "belopp": -52,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-27"
+            },
+            {
+                "text": "BEEBAR",
+                "belopp": -500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-27"
+            },
+            {
+                "text": "BYAREGÅRDENS B",
+                "belopp": -120,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-27"
+            },
+            {
+                "text": "BOLT.EU/O/2207",
+                "belopp": -204,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-25"
+            },
+            {
+                "text": "ULLEVI KONFERE",
+                "belopp": -110,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-25"
+            },
+            {
+                "text": "IKEA BECKEBOL",
+                "belopp": -690,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-25"
+            },
+            {
+                "text": "GRANAT,FELICIA",
+                "belopp": 250,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-25"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -2000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-25"
+            },
+            {
+                "text": "Räkningar",
+                "belopp": -10000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-25"
+            },
+            {
+                "text": "julilön",
+                "belopp": 5757,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-25"
+            },
+            {
+                "text": "Läkmf. Aktie",
+                "belopp": 4300,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-25"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -70,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-22"
+            },
+            {
+                "text": "EasyPark",
+                "belopp": -11.5,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-22"
+            },
+            {
+                "text": "PIREN 1",
+                "belopp": -150,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-22"
+            },
+            {
+                "text": "QSTAR STR@MSTA",
+                "belopp": -771.95,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-21"
+            },
+            {
+                "text": "ICA KVANTUM ST",
+                "belopp": -345.9,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-20"
+            },
+            {
+                "text": "typ spara",
+                "belopp": -1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-19"
+            },
+            {
+                "text": "CAFE ROOTS",
+                "belopp": -30,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-18"
+            },
+            {
+                "text": "CAFE ROOTS",
+                "belopp": -30,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-18"
+            },
+            {
+                "text": "FK/PMYND",
+                "belopp": 5262,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-18"
+            },
+            {
+                "text": "CAFE ROOTS",
+                "belopp": -35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-15"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-15"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -7,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-15"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-14"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-14"
+            },
+            {
+                "text": "Apoteket Oestr",
+                "belopp": -17.06,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-13"
+            },
+            {
+                "text": "CAFE ROOTS",
+                "belopp": -30,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-13"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-13"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -7,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-13"
+            },
+            {
+                "text": "TANKA ALINGSAS",
+                "belopp": -826.88,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-12"
+            },
+            {
+                "text": "HEDE GARD",
+                "belopp": -270,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-11"
+            },
+            {
+                "text": "MAXI ICA STORM",
+                "belopp": -315.05,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-11"
+            },
+            {
+                "text": "MAXI ICA STORM",
+                "belopp": -285.95,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-11"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-11"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-11"
+            },
+            {
+                "text": "CAFE ROOTS",
+                "belopp": -30,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-08"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-08"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -7,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-08"
+            },
+            {
+                "text": "PARKERING G@TE",
+                "belopp": -228,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-07"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-07"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-07"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-06"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-06"
+            },
+            {
+                "text": "BOLT.EU/O/2207",
+                "belopp": -191,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-04"
+            },
+            {
+                "text": "iZ *Villa Odin",
+                "belopp": -170,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-04"
+            },
+            {
+                "text": "ZTL*Villa Odin",
+                "belopp": -85,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-04"
+            },
+            {
+                "text": "iZ *Villa Odin",
+                "belopp": -255,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-04"
+            },
+            {
+                "text": "iZ *Villa Odin",
+                "belopp": -340,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-04"
+            },
+            {
+                "text": "MAXI ICA STORM",
+                "belopp": -631.3,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-04"
+            },
+            {
+                "text": "PARKERING G@TE",
+                "belopp": -4,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-04"
+            },
+            {
+                "text": "MAXI ICA STORM",
+                "belopp": -201.85,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-04"
+            },
+            {
+                "text": "KARESTEDT,JOSE",
+                "belopp": 119,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-01"
+            },
+            {
+                "text": "Apoteket",
+                "belopp": -179,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-01"
+            },
+            {
+                "text": "MAXI ICA STORM",
+                "belopp": -220.73,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-01"
+            },
+            {
+                "text": "MAXI ICA STORM",
+                "belopp": -653.48,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-28"
+            },
+            {
+                "text": "APOTEK HJARTAT",
+                "belopp": -72.52,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-28"
+            },
+            {
+                "text": "QSTAR STR@MSTA",
+                "belopp": -825.55,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-28"
+            },
+            {
+                "text": "GOTHENBURG STU",
+                "belopp": -35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-27"
+            },
+            {
+                "text": "GOTHENBURG STU",
+                "belopp": -302,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-27"
+            },
+            {
+                "text": "ENTR± ROSS@ HA",
+                "belopp": -784,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-27"
+            },
+            {
+                "text": "HEMK@P MUNKEDA",
+                "belopp": -682.85,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-27"
+            },
+            {
+                "text": "ICA KVANTUM ST",
+                "belopp": -627.5,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-27"
+            },
+            {
+                "text": "Max Burgers 20",
+                "belopp": -247,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-27"
+            },
+            {
+                "text": "K-RAUTA",
+                "belopp": -463.68,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-27"
+            },
+            {
+                "text": "Guitarshoppen",
+                "belopp": -200,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-27"
+            },
+            {
+                "text": "CAFE ROOTS",
+                "belopp": -30,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-27"
+            },
+            {
+                "text": "Läkmf. Aktie",
+                "belopp": 4300,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-27"
+            },
+            {
+                "text": "MARTIN ADAMSSO",
+                "belopp": 180,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-26"
+            },
+            {
+                "text": "Killnoise",
+                "belopp": -120,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-26"
+            },
+            {
+                "text": "PETTERSSON KÄL",
+                "belopp": 280,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-25"
+            },
+            {
+                "text": "KARESTEDT,JOSE",
+                "belopp": -400,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-25"
+            },
+            {
+                "text": "KARESTEDT,JOSE",
+                "belopp": -600,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-23"
+            },
+            {
+                "text": "CLAS OHLSON",
+                "belopp": 20,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-23"
+            },
+            {
+                "text": "CLAS OHLSON",
+                "belopp": -574.92,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-23"
+            },
+            {
+                "text": "ESPRESSO H 145",
+                "belopp": -37,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-23"
+            },
+            {
+                "text": "junilön",
+                "belopp": 5757,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-23"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-22"
+            },
+            {
+                "text": "MIN DOKTOR KLI",
+                "belopp": -410,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-22"
+            },
+            {
+                "text": "HEDIN BVH 704",
+                "belopp": -4517,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-22"
+            },
+            {
+                "text": "Asiana Sushi M",
+                "belopp": -130,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-22"
+            },
+            {
+                "text": "Västtrafik To",
+                "belopp": -35,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-22"
+            },
+            {
+                "text": "sven6 plus bil",
+                "belopp": 6500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-21"
+            },
+            {
+                "text": "Erik Hägge",
+                "belopp": -800,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-21"
+            },
+            {
+                "text": "EKDAHL,PATRIK",
+                "belopp": -2500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-21"
+            },
+            {
+                "text": "BOLT.EU/O/2206",
+                "belopp": -210,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-20"
+            },
+            {
+                "text": "PARKERING G@TE",
+                "belopp": -103,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-20"
+            },
+            {
+                "text": "OL REPUBLIKEN",
+                "belopp": -120,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-20"
+            },
+            {
+                "text": "OL REPUBLIKEN",
+                "belopp": -100,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-20"
+            },
+            {
+                "text": "OL REPUBLIKEN",
+                "belopp": -187,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-20"
+            },
+            {
+                "text": "typ spara",
+                "belopp": -1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-20"
+            }
+        ]
+    },
+    {
+        "namn": "Räkningskonto",
+        "clearing": "6228",
+        "nummer": "436850508",
+        "saldo": 4436.42,
+        "transactions": [
+            {
+                "text": "HS 02499882",
+                "belopp": -1035,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-10-03"
+            },
+            {
+                "text": "PRIMÄR FASTIGH",
+                "belopp": -4169,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-30"
+            },
+            {
+                "text": "AEA AKADEMIKER",
+                "belopp": -130,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-30"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -675,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-30"
+            },
+            {
+                "text": "TELE2",
+                "belopp": -49,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-28"
+            },
+            {
+                "text": "Vimla",
+                "belopp": -230,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-28"
+            },
+            {
+                "text": "nordicwell",
+                "belopp": -499,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-27"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": 7500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-26"
+            },
+            {
+                "text": "övf kortavgift",
+                "belopp": -300,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-02"
+            },
+            {
+                "text": "ANNA BARBARA W",
+                "belopp": -1219,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-01"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -1035,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-01"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": 341,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-31"
+            },
+            {
+                "text": "ANNA BARBARA W",
+                "belopp": -997,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-31"
+            },
+            {
+                "text": "FELPARKERINGSA",
+                "belopp": -600,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-31"
+            },
+            {
+                "text": "AEA AKADEMIKER",
+                "belopp": -130,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-31"
+            },
+            {
+                "text": "TRANSPORTSTYRE",
+                "belopp": -56,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-31"
+            },
+            {
+                "text": "PRIMÄR FASTIGH",
+                "belopp": -5021,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-31"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -675,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-30"
+            },
+            {
+                "text": "TELE2",
+                "belopp": -49,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-29"
+            },
+            {
+                "text": "räkningar",
+                "belopp": 9311.91,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-27"
+            },
+            {
+                "text": "Vimla",
+                "belopp": -230,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-26"
+            },
+            {
+                "text": "nordicwell",
+                "belopp": -329,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-25"
+            },
+            {
+                "text": "återbet. fika",
+                "belopp": 500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-18"
+            },
+            {
+                "text": "lån för fika",
+                "belopp": -500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-17"
+            },
+            {
+                "text": "TRANSPORTSTYRE",
+                "belopp": -194,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-01"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -1035,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-01"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -675,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-08-01"
+            },
+            {
+                "text": "AEA AKADEMIKER",
+                "belopp": -130,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-29"
+            },
+            {
+                "text": "PRIMÄR FASTIGH",
+                "belopp": -5021,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-29"
+            },
+            {
+                "text": "TELE2",
+                "belopp": -49,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-28"
+            },
+            {
+                "text": "Vimla",
+                "belopp": -230,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-28"
+            },
+            {
+                "text": "PRIMÄR FASTIGH",
+                "belopp": -4303,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-26"
+            },
+            {
+                "text": "Trygg-Hansa Fö",
+                "belopp": -1923,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-26"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": 1185.9,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-25"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": 580,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-25"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": 2000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-25"
+            },
+            {
+                "text": "Räkningar",
+                "belopp": 10000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-25"
+            },
+            {
+                "text": "nordicwell",
+                "belopp": -329,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-25"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -635,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-01"
+            },
+            {
+                "text": "AEA AKADEMIKER",
+                "belopp": -130,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-30"
+            },
+            {
+                "text": "TRANSPORTSTYRE",
+                "belopp": -187,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-30"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -675,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-30"
+            },
+            {
+                "text": "TELE2",
+                "belopp": -49,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-28"
+            },
+            {
+                "text": "Vimla",
+                "belopp": -220,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-28"
+            },
+            {
+                "text": "nordicwell",
+                "belopp": -329,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-27"
+            },
+            {
+                "text": "ANNA BARBARA W",
+                "belopp": -1108,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-02"
+            },
+            {
+                "text": "AVENYTANDVÅRDE",
+                "belopp": -1970,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-02"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -635,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-01"
+            },
+            {
+                "text": "AEA AKADEMIKER",
+                "belopp": -130,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-31"
+            },
+            {
+                "text": "TRANSPORTSTYRE",
+                "belopp": -216,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-31"
+            },
+            {
+                "text": "PRIMÄR FASTIGH",
+                "belopp": -5021,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-31"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -675,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-30"
+            },
+            {
+                "text": "TELE2",
+                "belopp": -49,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-27"
+            },
+            {
+                "text": "Vimla",
+                "belopp": -220,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-27"
+            },
+            {
+                "text": "Räkningar",
+                "belopp": 10000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-25"
+            },
+            {
+                "text": "nordicwell",
+                "belopp": -329,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-25"
+            },
+            {
+                "text": "STÄDBOLAGET I",
+                "belopp": -1243,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-24"
+            },
+            {
+                "text": "Parkster / Bil",
+                "belopp": -104,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-17"
+            },
+            {
+                "text": "Capitum AB",
+                "belopp": -530,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-17"
+            },
+            {
+                "text": "Regionservice",
+                "belopp": -300,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-10"
+            },
+            {
+                "text": "ANNA BARBARA W",
+                "belopp": -1108,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-03"
+            },
+            {
+                "text": "TRANSPORTSTYRE",
+                "belopp": -62,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-02"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -635,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-02"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -675,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-02"
+            },
+            {
+                "text": "AEA AKADEMIKER",
+                "belopp": -130,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-29"
+            },
+            {
+                "text": "PRIMÄR FASTIGH",
+                "belopp": -5021,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-29"
+            },
+            {
+                "text": "VOLVOFINANS BA",
+                "belopp": -2585,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-28"
+            },
+            {
+                "text": "TELE2",
+                "belopp": -49,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-28"
+            },
+            {
+                "text": "Vimla",
+                "belopp": -220,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-28"
+            },
+            {
+                "text": "Räkningar",
+                "belopp": 10000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-25"
+            },
+            {
+                "text": "nordicwell",
+                "belopp": -329,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-25"
+            },
+            {
+                "text": "STÄDBOLAGET I",
+                "belopp": -1243,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-12"
+            },
+            {
+                "text": "STÄDBOLAGET I",
+                "belopp": -1243,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-12"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -610,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-01"
+            },
+            {
+                "text": "AEA AKADEMIKER",
+                "belopp": -130,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-03-31"
+            },
+            {
+                "text": "PRIMÄR FASTIGH",
+                "belopp": -4198,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-03-31"
+            },
+            {
+                "text": "TRANSPORTSTYRE",
+                "belopp": -87,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-03-31"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -720,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-03-30"
+            },
+            {
+                "text": "TELE2",
+                "belopp": -49,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-03-28"
+            },
+            {
+                "text": "Vimla",
+                "belopp": -220,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-03-28"
+            },
+            {
+                "text": "Räkningar",
+                "belopp": 10000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-03-25"
+            },
+            {
+                "text": "nordicwell",
+                "belopp": -329,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-03-25"
+            },
+            {
+                "text": "STÄDBOLAGET I",
+                "belopp": -1203,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-03-01"
+            },
+            {
+                "text": "Narkolepsiföre",
+                "belopp": -300,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-03-01"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -610,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-03-01"
+            },
+            {
+                "text": "AEA AKADEMIKER",
+                "belopp": -130,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-02-28"
+            },
+            {
+                "text": "TELE2",
+                "belopp": -109,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-02-28"
+            },
+            {
+                "text": "TRANSPORTSTYRE",
+                "belopp": -78,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-02-28"
+            },
+            {
+                "text": "PRIMÄR FASTIGH",
+                "belopp": -5021,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-02-28"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -630,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-02-28"
+            },
+            {
+                "text": "Vimla",
+                "belopp": -220,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-02-28"
+            },
+            {
+                "text": "Räkningar",
+                "belopp": 10000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-02-25"
+            },
+            {
+                "text": "nordicwell",
+                "belopp": -329,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-02-25"
+            },
+            {
+                "text": "TELE2",
+                "belopp": -49,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-02-14"
+            },
+            {
+                "text": "ÅTERBET STÄD",
+                "belopp": 1203,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-02-01"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -610,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-02-01"
+            },
+            {
+                "text": "AEA AKADEMIKER",
+                "belopp": -130,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-01-31"
+            },
+            {
+                "text": "PRIMÄR FASTIGH",
+                "belopp": -1985,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-01-31"
+            },
+            {
+                "text": "TRANSPORTSTYRE",
+                "belopp": -47,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-01-31"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -675,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-01-31"
+            },
+            {
+                "text": "Vimla",
+                "belopp": -220,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-01-28"
+            },
+            {
+                "text": "Parkman i Sver",
+                "belopp": -60,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-01-11"
+            },
+            {
+                "text": "ALEKTUM GROUP",
+                "belopp": -367,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-01-11"
+            },
+            {
+                "text": "Parkster / Bil",
+                "belopp": -179,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-01-04"
+            },
+            {
+                "text": "ALEKTUM GROUP",
+                "belopp": -180,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-01-04"
+            },
+            {
+                "text": "TRANSPORTSTYRE",
+                "belopp": -86,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-01-03"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -610,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-01-03"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -675,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-12-30"
+            },
+            {
+                "text": "PRIMÄR FASTIGH",
+                "belopp": -4172,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-12-30"
+            },
+            {
+                "text": "AEA AKADEMIKER",
+                "belopp": -130,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-12-30"
+            },
+            {
+                "text": "TELE2",
+                "belopp": -49,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-12-28"
+            },
+            {
+                "text": "Vimla",
+                "belopp": -220,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-12-28"
+            },
+            {
+                "text": "Räkningar",
+                "belopp": 10000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-12-27"
+            },
+            {
+                "text": "KLARNA BANK AB",
+                "belopp": -187,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-12-21"
+            },
+            {
+                "text": "STÄDBOLAGET I",
+                "belopp": -1203,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-12-14"
+            },
+            {
+                "text": "STÄDBOLAGET I",
+                "belopp": -1203,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-12-14"
+            },
+            {
+                "text": "Regionservice",
+                "belopp": -300,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-12-14"
+            },
+            {
+                "text": "STÄDBOLAGET I",
+                "belopp": -1203,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-12-06"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -610,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-12-01"
+            },
+            {
+                "text": "AEA AKADEMIKER",
+                "belopp": -130,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-11-30"
+            },
+            {
+                "text": "TRANSPORTSTYRE",
+                "belopp": -54,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-11-30"
+            },
+            {
+                "text": "PRIMÄR FASTIGH",
+                "belopp": -5599,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-11-30"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -675,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-11-30"
+            },
+            {
+                "text": "TELE2",
+                "belopp": -49,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-11-26"
+            },
+            {
+                "text": "Vimla",
+                "belopp": -220,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-11-26"
+            },
+            {
+                "text": "Räkningar",
+                "belopp": 10000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-11-25"
+            },
+            {
+                "text": "tandläkare",
+                "belopp": -1600,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-11-04"
+            },
+            {
+                "text": "TRANSPORTSTYRE",
+                "belopp": -2393,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-11-01"
+            },
+            {
+                "text": "TRANSPORTSTYRE",
+                "belopp": -80,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-11-01"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -610,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-11-01"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -675,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-11-01"
+            },
+            {
+                "text": "AEA AKADEMIKER",
+                "belopp": -130,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-29"
+            },
+            {
+                "text": "PRIMÄR FASTIGH",
+                "belopp": -5599,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-29"
+            },
+            {
+                "text": "TELE2",
+                "belopp": -49,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-28"
+            },
+            {
+                "text": "Vimla",
+                "belopp": -220,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-28"
+            },
+            {
+                "text": "Räkningar",
+                "belopp": 10000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-25"
+            },
+            {
+                "text": "STÄDBOLAGET I",
+                "belopp": -1203,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-21"
+            },
+            {
+                "text": "STÄDBOLAGET I",
+                "belopp": -1203,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-21"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -610,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-01"
+            },
+            {
+                "text": "PRIMÄR FASTIGH",
+                "belopp": -4986,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-09-30"
+            },
+            {
+                "text": "AEA AKADEMIKER",
+                "belopp": -140,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-09-30"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -675,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-09-30"
+            },
+            {
+                "text": "TELE2",
+                "belopp": -49,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-09-28"
+            },
+            {
+                "text": "Vimla",
+                "belopp": -220,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-09-28"
+            },
+            {
+                "text": "Räkningar",
+                "belopp": 10000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-09-27"
+            },
+            {
+                "text": "Controlla AB",
+                "belopp": -600,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-09-21"
+            },
+            {
+                "text": "Regionservice",
+                "belopp": -100,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-09-14"
+            },
+            {
+                "text": "TRYGG-HANSA FÖ",
+                "belopp": -67,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-09-01"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -610,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-09-01"
+            },
+            {
+                "text": "AEA AKADEMIKER",
+                "belopp": -140,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-08-31"
+            },
+            {
+                "text": "PRIMÄR FASTIGH",
+                "belopp": -5599,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-08-31"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -675,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-08-30"
+            },
+            {
+                "text": "TELE2",
+                "belopp": -49,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-08-27"
+            },
+            {
+                "text": "Vimla",
+                "belopp": -220,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-08-27"
+            },
+            {
+                "text": "Räkningar",
+                "belopp": 10000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-08-25"
+            },
+            {
+                "text": "TRANSPORTSTYRE",
+                "belopp": -38,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-08-02"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -610,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-08-02"
+            },
+            {
+                "text": "AEA AKADEMIKER",
+                "belopp": -140,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-07-30"
+            },
+            {
+                "text": "PRIMÄR FASTIGH",
+                "belopp": -5599,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-07-30"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -675,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-07-30"
+            },
+            {
+                "text": "LINDSBY AB",
+                "belopp": -700,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-07-28"
+            },
+            {
+                "text": "TELE2",
+                "belopp": -49,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-07-28"
+            },
+            {
+                "text": "Vimla",
+                "belopp": -220,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-07-28"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": 10000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-07-23"
+            },
+            {
+                "text": "TRYGG-HANSA FÖ",
+                "belopp": -1970,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-07-01"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -610,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-07-01"
+            },
+            {
+                "text": "PRIMÄR FASTIGH",
+                "belopp": -5554,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-06-30"
+            },
+            {
+                "text": "AEA AKADEMIKER",
+                "belopp": -140,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-06-30"
+            },
+            {
+                "text": "TRANSPORTSTYRE",
+                "belopp": -18,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-06-30"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -675,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-06-30"
+            },
+            {
+                "text": "TELE2",
+                "belopp": -49,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-06-28"
+            },
+            {
+                "text": "Vimla",
+                "belopp": -220,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-06-28"
+            },
+            {
+                "text": "Räkningar",
+                "belopp": 10000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-06-28"
+            },
+            {
+                "text": "LINDSBY AB",
+                "belopp": -1400,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-06-22"
+            },
+            {
+                "text": "Regionservice",
+                "belopp": -100,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-06-15"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -610,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-06-01"
+            },
+            {
+                "text": "LINDSBY AB",
+                "belopp": -1400,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-05-31"
+            },
+            {
+                "text": "AEA AKADEMIKER",
+                "belopp": -140,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-05-31"
+            },
+            {
+                "text": "TRANSPORTSTYRE",
+                "belopp": -18,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-05-31"
+            },
+            {
+                "text": "PRIMÄR FASTIGH",
+                "belopp": -5449,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-05-31"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -675,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-05-31"
+            },
+            {
+                "text": "VOLVOFINANS BA",
+                "belopp": -2509,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-05-28"
+            },
+            {
+                "text": "TELE2",
+                "belopp": -698,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-05-28"
+            },
+            {
+                "text": "Vimla",
+                "belopp": -220,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-05-28"
+            },
+            {
+                "text": "Räkningar",
+                "belopp": 10000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-05-25"
+            },
+            {
+                "text": "Regionservice",
+                "belopp": -300,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-05-18"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -610,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-05-03"
+            },
+            {
+                "text": "AEA AKADEMIKER",
+                "belopp": -140,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-04-30"
+            },
+            {
+                "text": "TRANSPORTSTYRE",
+                "belopp": -56,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-04-30"
+            },
+            {
+                "text": "TRANSPORTSTYRE",
+                "belopp": -69,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-04-30"
+            },
+            {
+                "text": "PRIMÄR FASTIGH",
+                "belopp": -5449,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-04-30"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -675,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-04-30"
+            },
+            {
+                "text": "COM HEM",
+                "belopp": -49,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-04-28"
+            },
+            {
+                "text": "Vimla",
+                "belopp": -220,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-04-28"
+            },
+            {
+                "text": "LINDSBY AB",
+                "belopp": -1400,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-04-27"
+            },
+            {
+                "text": "TRAFIKFÖRSÄKRI",
+                "belopp": -2902,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-04-27"
+            },
+            {
+                "text": "Räkningar",
+                "belopp": 10000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-04-26"
+            },
+            {
+                "text": "LINDSBY AB",
+                "belopp": -1400,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-04-13"
+            },
+            {
+                "text": "LINDSBY AB",
+                "belopp": -1400,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-04-13"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -610,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-04-01"
+            },
+            {
+                "text": "PRIMÄR FASTIGH",
+                "belopp": -5360,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-03-31"
+            },
+            {
+                "text": "AEA AKADEMIKER",
+                "belopp": -140,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-03-31"
+            },
+            {
+                "text": "TRANSPORTSTYRE",
+                "belopp": -78,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-03-31"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -720,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-03-30"
+            },
+            {
+                "text": "COM HEM",
+                "belopp": -49,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-03-26"
+            },
+            {
+                "text": "Vimla",
+                "belopp": -220,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-03-26"
+            },
+            {
+                "text": "Räkningar",
+                "belopp": 10000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-03-25"
+            },
+            {
+                "text": "Narkolepsiföre",
+                "belopp": -300,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-03-02"
+            },
+            {
+                "text": "TRANSPORTSTYRE",
+                "belopp": -43,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-03-01"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -610,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-03-01"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -630,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-03-01"
+            },
+            {
+                "text": "AEA AKADEMIKER",
+                "belopp": -140,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-02-26"
+            },
+            {
+                "text": "COM HEM",
+                "belopp": -49,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-02-26"
+            },
+            {
+                "text": "PRIMÄR FASTIGH",
+                "belopp": -5449,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-02-26"
+            },
+            {
+                "text": "Vimla",
+                "belopp": -220,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-02-26"
+            },
+            {
+                "text": "Räkningar",
+                "belopp": 10000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-02-25"
+            },
+            {
+                "text": "FORDONSSKATT T",
+                "belopp": -1552,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-02-23"
+            },
+            {
+                "text": "TRANSPORTSTYRE",
+                "belopp": -96,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-02-01"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -610,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-02-01"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -675,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-02-01"
+            },
+            {
+                "text": "AEA AKADEMIKER",
+                "belopp": -140,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-01-29"
+            },
+            {
+                "text": "PRIMÄR FASTIGH",
+                "belopp": -5449,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-01-29"
+            },
+            {
+                "text": "COM HEM",
+                "belopp": -49,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-01-28"
+            },
+            {
+                "text": "Vimla",
+                "belopp": -220,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-01-28"
+            },
+            {
+                "text": "LINDSBY AB",
+                "belopp": -1400,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-01-25"
+            },
+            {
+                "text": "Räkningar",
+                "belopp": 10000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-01-25"
+            },
+            {
+                "text": "Regionservice",
+                "belopp": -300,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-01-19"
+            },
+            {
+                "text": "TRANSPORTSTYRE",
+                "belopp": -66,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-01-04"
+            },
+            {
+                "text": "HS 02499882",
+                "belopp": -635,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-01-04"
+            }
+        ]
+    },
+    {
+        "namn": "Skidkonto",
+        "clearing": "6228",
+        "nummer": "278739288 ",
+        "saldo": 0,
+        "transactions": [
+            {
+                "text": "Överf Mobil",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-19"
+            },
+            {
+                "text": "ANNA BARBARA W",
+                "belopp": -1662,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-15"
+            },
+            {
+                "text": "ANNA BARBARA W",
+                "belopp": -1219,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-15"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-09-13"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -580,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-07-25"
+            },
+            {
+                "text": "ÅTERBET.TDL",
+                "belopp": 1970,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-28"
+            },
+            {
+                "text": "AVENYTANDVÅRDE",
+                "belopp": -1970,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-06-20"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-15"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -800,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-05-07"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-29"
+            },
+            {
+                "text": "KLARNA BANK AB",
+                "belopp": -1120,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-04-05"
+            },
+            {
+                "text": "balans skidres",
+                "belopp": -6000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-03-16"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": -1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-03-05"
+            },
+            {
+                "text": "utd-skid",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-02-28"
+            },
+            {
+                "text": "utd-skid",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2022-01-26"
+            },
+            {
+                "text": "utd-skid",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-12-27"
+            },
+            {
+                "text": "utd-skid",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-11-26"
+            },
+            {
+                "text": "utd-skid",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-26"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": 2,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-10-16"
+            },
+            {
+                "text": "utd-skid",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-09-27"
+            },
+            {
+                "text": "Extrapengar",
+                "belopp": 498,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-09-19"
+            },
+            {
+                "text": "utd-skid",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-08-26"
+            },
+            {
+                "text": "utd-skid",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-07-26"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": 500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-07-07"
+            },
+            {
+                "text": "utd-skid",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-06-28"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": 500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-06-02"
+            },
+            {
+                "text": "utd-skid",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-05-26"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": 500,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-05-20"
+            },
+            {
+                "text": "Överf Mobil",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-05-20"
+            },
+            {
+                "text": "utd-skid",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-04-26"
+            },
+            {
+                "text": "utd-skid",
+                "belopp": 1000,
+                "subcategory": null,
+                "category": null,
+                "datum": "2021-03-26"
+            }
+        ]
+    }
+]
